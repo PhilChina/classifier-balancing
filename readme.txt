@@ -1,0 +1,1 @@
+This repository contains code for the paper "Decoupling Representation and Classifier for Long-Tailed Recognition", published at ICLR 2020
